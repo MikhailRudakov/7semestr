@@ -8,7 +8,7 @@
 **Шаг 2**
 ![image](https://user-images.githubusercontent.com/90384405/197844090-f9127956-dccf-416c-b56c-ed800100d8a4.png)
 
-Необходимо пройти авторизацию и открыть игровой лаунчер, где далее нужно перейти во вкладку "UnrealEngine" и скачать "движок"
+Необходимо пройти авторизацию и открыть игровой лаунчер, где далее нужно перейти во вкладку "Unreal Engine" и скачать "движок"
 
 ![image](https://user-images.githubusercontent.com/90384405/197844346-5c02baad-1cf1-4eec-bdf9-f16642cdbbf0.png)
 
