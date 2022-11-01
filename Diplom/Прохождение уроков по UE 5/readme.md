@@ -25,5 +25,22 @@
 
 
 1. Viewport - место для творчества, левел дизайна, добавления новых и удаления старых объектов, добавление персонажа, объектов, света и так далее
-2. 
+
 ![image](https://user-images.githubusercontent.com/90384405/199230135-ba446240-d5fa-4d56-8e0c-b18a36a466e0.png)
+
+2. World Outliner - список всего, что расположено на карте, т.е в ViewportЕ
+
+![image](https://user-images.githubusercontent.com/90384405/199231683-50759809-3ab8-4900-b964-b3ca915b61b5.png)
+
+3. Content browser - обзор содержимого проекта, папок, кода, скриптов, моделей, текстур, света. Открывается комбинацией клавиш Ctrl+ Space Bar
+
+![image](https://user-images.githubusercontent.com/90384405/199233116-248d7bf7-34fd-43ed-adbe-f1d02324a442.png)
+
+4. Details Panel - Отображает свойства выбраного объекта, размер, положение, воздействие гравитации и так далее.
+
+![image](https://user-images.githubusercontent.com/90384405/199233834-3b3db70a-e2c1-492c-80dc-3c0e75c940ff.png)
+
+5. World Settings - свойства мира, небо, свет, день/ночь, физика
+
+![image](https://user-images.githubusercontent.com/90384405/199234155-b86afe1c-3dc4-46f8-841d-bd792d45d133.png)
+
