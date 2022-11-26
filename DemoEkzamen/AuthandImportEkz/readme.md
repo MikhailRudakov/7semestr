@@ -25,3 +25,28 @@
 ## Таймер длостиг 20-ти секунд и завершил сессию
 
 ![image](https://user-images.githubusercontent.com/90384405/204090106-8a7ace1c-efd6-471f-a6a2-188139290f00.png)
+
+## Таблица Стран
+
+![image](https://user-images.githubusercontent.com/90384405/204092263-e2ea48dd-10fb-472c-9cdd-8c4b0688f9fd.png)
+
+## Role
+
+![image](https://user-images.githubusercontent.com/90384405/204092278-19387c99-5b5d-46c1-9b6b-0cae91acc6eb.png)
+
+## User
+
+![image](https://user-images.githubusercontent.com/90384405/204092291-12185b7e-4ffd-4428-be8a-5d13f4f66ba4.png)
+
+## Hotel
+
+![image](https://user-images.githubusercontent.com/90384405/204092301-864930c6-d0bb-4b19-ad75-bdbfe345cc53.png)
+
+## Tours
+
+![image](https://user-images.githubusercontent.com/90384405/204092363-5cc85be1-423e-430a-a097-7b2644cdd7f2.png)
+
+## Diagram
+
+![image](https://user-images.githubusercontent.com/90384405/204092372-615d51bb-8b99-4702-a5db-6e34ff282fcd.png)
+
