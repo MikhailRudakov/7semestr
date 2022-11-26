@@ -21,3 +21,7 @@
 ## Если зажать кнопку мыши на поле "Показать пароль" - будет показан пароль, введённый в текстовый блок.
 
 ![image](https://user-images.githubusercontent.com/90384405/204089984-3dad69a6-9f4e-47ad-962a-3d9f48529bce.png)
+
+## Таймер длостиг 20-ти секунд и завершил сессию
+
+![image](https://user-images.githubusercontent.com/90384405/204090106-8a7ace1c-efd6-471f-a6a2-188139290f00.png)
