@@ -1,0 +1,172 @@
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\WordSkills.exe.config
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\WordSkills.exe
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\WordSkills.pdb
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.AssemblyReference.cache
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.SuggestedBindingRedirects.cache
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\MainWindow.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\Admin.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\Login.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\App.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills_MarkupCompile.cache
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills_MarkupCompile.lref
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\MainWindow.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\Admin.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\Login.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.g.resources
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.Properties.Resources.resources
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.GenerateResource.cache
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.CoreCompileInputs.cache
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.exe
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.pdb
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\App.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills_Content.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\EntityFramework.dll
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\EntityFramework.xml
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS_PROJECTS\WordSkills\WordSkills\bin\Debug\ru\EntityFramework.resources.dll
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.CopyComplete
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\User.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\User.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\AddEditPage.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\ProductAgents.g.cs
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\AddEditPage.baml
+D:\VS_PROJECTS\WordSkills\WordSkills\obj\Debug\Pages\ProductAgents.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\Admin.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\Login.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\ProductAgents.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\User.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\App.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills_Content.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills_MarkupCompile.cache
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills_MarkupCompile.lref
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.exe
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\WordSkills.exe.config
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\WordSkills.exe
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\WordSkills.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\EntityFramework.dll
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\EntityFramework.xml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\App.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\MainWindow.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\AddEditPage.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\Admin.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\Login.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\ProductAgents.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\Pages\User.baml
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.g.resources
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Рабочий стол\WordSkills\WordSkills\obj\Debug\WordSkills.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\WordSkills.exe.config
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\WordSkills.exe
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\WordSkills.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\EntityFramework.dll
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\EntityFramework.xml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\Admin.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\Login.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\ProductAgents.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\User.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\App.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills_Content.g.cs
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills_MarkupCompile.cache
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills_MarkupCompile.lref
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\App.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\MainWindow.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\AddEditPage.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\Admin.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\Login.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\ProductAgents.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\Pages\User.baml
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.g.resources
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.exe
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\WordSkills.exe.config
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\WordSkills.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\WordSkills.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\EntityFramework.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\EntityFramework.xml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\MainWindow.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\Admin.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\Login.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\ProductAgents.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\User.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\App.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills_Content.g.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills_MarkupCompile.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills_MarkupCompile.lref
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\App.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\MainWindow.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\AddEditPage.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\Admin.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\Login.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\ProductAgents.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\Pages\User.baml
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.g.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\name\7-semester\demo-exam\Blagodat\WordSkills\obj\Debug\WordSkills.pdb
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.csproj.AssemblyReference.cache
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.csproj.SuggestedBindingRedirects.cache
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\MainWindow.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\AddEditPage.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Admin.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\EditGrid.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Grid.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Login.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\ProductAgents.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Views.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\App.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills_Content.g.cs
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills_MarkupCompile.cache
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills_MarkupCompile.lref
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\WordSkills.exe.config
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\WordSkills.exe
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\WordSkills.pdb
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\EntityFramework.dll
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\EntityFramework.xml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\App.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\MainWindow.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\AddEditPage.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Admin.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\EditGrid.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Grid.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Login.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\ProductAgents.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\Pages\Views.baml
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.g.resources
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.Properties.Resources.resources
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.csproj.GenerateResource.cache
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.csproj.CoreCompileInputs.cache
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.csproj.CopyComplete
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.exe
+C:\Вспомогательное\Blagodat FINAL\WordSkills\obj\Debug\WordSkills.pdb
