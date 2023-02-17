@@ -1,0 +1,150 @@
+.bg-image {
+    background-repeat: no-repeat;
+}
+
+.section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/left-arrow.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/right-arrow.svg);
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    width: 20px;
+}
+
+.carousel-control-prev {
+    left: -35px;
+}
+
+.carousel-control-next {
+    right: -35px;
+}
+
+#shapka1 {
+    font-size: 40;
+}
+
+.navbar-brand {
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: #ffffff;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #ffffff;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show>.nav-link {
+    color: #ffffff;
+}
+.contact .info .info-icon{
+    background: #1faf1f;
+    float: left;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px; ;
+
+}
+.contact .info h4{
+    padding: 0 0 0 60px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.contact .info p{
+    padding: 0 0 0 60px;
+    font-size: 14px;
+}
+.footer-top{
+    background: #151515 ;
+    color: #fff;
+    border-bottom: 1px solid #222222;
+    padding: 60px 0 30px 0;
+}
+.footer-info{
+    margin-bottom: 3px;
+}
+.footer-top .footer-info h3{
+    font-size: 28px;
+    margin: 0 0 20px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.footer-top .footer-info p{
+    font-size: 14px; ;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+.footer-top .social-links a{
+    width: 36px;
+    height: 36px;
+    background: #292929;
+    display: inline-block;
+    margin-right: 4px;
+    border-radius: 4px;
+    text-align: center;
+}
+.footer-top .social-links a:hover{
+    background: #ffc451;
+}
+.footer-top h4{
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 12px;
+}
+.footer-links{
+    margin-bottom: 30px;
+}
+.footer-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0
+    ;
+}
+.footer-links li {
+    padding: 10px 0;
+    display: flex;
+  align-items: center;
+  
+}
+.footer-links a{
+    color: white ;
+    text-decoration: none;
+
+}
+.footer-links a:hover{
+    color: #ffc451;
+}
+form{
+margin-top: 30px;
+padding: 6px 10px;
+border: radius 4px; ;
+line-height: 0.5
+}
+.form-control{
+    line-height: 0.5
+}
